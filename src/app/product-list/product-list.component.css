@@ -25,7 +25,14 @@
 }
 
 .btn-like {
+  /* z-index: 1000; */
+  /* position: absolute; */
   width: 70px;
+}
+
+.btn-like img {
+  margin-top: 1px;
+  margin-left: 7px;
 }
 
 
