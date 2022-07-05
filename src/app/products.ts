@@ -7,7 +7,7 @@ export const products = [
     description: '21.5 inches Full HD (1920 x 1080) widescreen IPS display \n' + ' And Radeon free sync technology. No compatibility for VESA Mount --- Refresh rate: 75 hertz - Using HDMI port',
     rating: 5,
     link: 'https://www.amazon.com/Acer-SB220Q-Ultra-Thin-Frame-Monitor/dp/B07CVL2D2S/ref=sr_1_2?dchild=1&qid=1614103678&s=computers-intl-ship&sr=1-2',
-    numberOflikes: 10,
+    numberOflikes: 7,
   },
   {
     id: 2,
